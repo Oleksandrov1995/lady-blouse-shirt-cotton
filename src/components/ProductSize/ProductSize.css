@@ -1,0 +1,28 @@
+.productSize{
+    padding: 70px 7px 70px 7px;
+    background-color: #f0f0f0;
+  text-align: center;
+    
+}
+.productSize-table{
+  margin: 20px auto 10px auto;
+  background-color: #ffffff;
+  padding: 3px;
+}
+.productSize-bolt{
+   font-weight: bold;
+   font-size: 25px;
+   
+}
+th, td {
+  padding: 1px 2px;
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 13px;
+}
+@media only screen and (min-width: 480px) {
+  th, td {
+    padding: 4px 10px;
+    font-size: 20px;
+  }
+}
