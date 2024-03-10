@@ -65,6 +65,7 @@ export const ChooseColor = ({ modalOpen }) => {
           </li>
         ))}
       </ul>
+      <img className='line' src={require('../../Images/line.png')} alt="line" />
     </section>
   );
 };

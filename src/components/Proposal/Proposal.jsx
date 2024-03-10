@@ -8,6 +8,7 @@ let todayPrice = 689;
 export const Proposal = () => {
   return (
     <section className="proposal-section">
+      
       <ul className="proposal-list">
         <li className="proposal-item">
           <img className='proposal-img'
@@ -22,7 +23,7 @@ export const Proposal = () => {
             src={require('../../Images/proposal2.jpg')}
             alt="Жилетка на вішаку"
           />
-          <p className="proposal-item-text">Практична, ефектна та<br/>водночас натуральна тканина</p>
+          <p className="proposal-item-text">Практична, ефектна та водночас натуральна тканина</p>
         </li>
         <li className="proposal-item">
           {' '}
@@ -30,7 +31,7 @@ export const Proposal = () => {
             src={require('../../Images/proposal3.jpg')}
             alt="Дівчина в жилетці"
           />
-          <p className="proposal-item-text">Продумані деталі для<br/>комфортного носіння та стильного вигляду</p>
+          <p className="proposal-item-text">Продумані деталі для комфортного носіння та стильного вигляду</p>
         </li>
       </ul>
       <div className="proposal-allPrice">
@@ -51,9 +52,9 @@ export const Proposal = () => {
             offset={-70}
             duration={500}
           >
-            Обрати сорочку
+            Обрати колір
           </Link></button>
-      <p className='proposal-text'>Залишилося <span style={{ background: '#ff671e' }}>17</span> штук по акції. Встигніть замовити свій колір!</p>
+      <p className='proposal-text'>Залишилося <span style={{ background: '#ff671e' }}>11</span> штук по акції. Встигніть замовити свій колір!</p>
     </section>
   );
 };

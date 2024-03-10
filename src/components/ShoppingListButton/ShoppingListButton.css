@@ -4,7 +4,7 @@
 .modalButton{
     position: fixed;
     right: 3.5%;
-    top: 130px;
+    top: 190px;
     z-index: 10;
     padding: 1em;
     border: 1px solid black;

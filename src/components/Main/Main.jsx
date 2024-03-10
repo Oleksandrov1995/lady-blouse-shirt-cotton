@@ -15,6 +15,7 @@ export const Main = ()=>{
 
 </div>
 <img src={require('../../Images/logo2.png')} alt="Logo" className="main-logo" />
+
         </section>
     )
 }

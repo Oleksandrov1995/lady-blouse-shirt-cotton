@@ -3,7 +3,7 @@ import './ProductSize.css';
 export const ProductSize = () => {
   return (
     <section id="productSize" className='productSize'>
-      <h2>Заміри виробу</h2>
+      <h2>Розмірна сітка та заміри виробу</h2>
       <table className='productSize-table'>
   <thead>
     <tr>
@@ -53,7 +53,8 @@ export const ProductSize = () => {
   </tbody>
 </table>
 
-      <p><span className='productSize-bolt'>*</span>   Розміри розраховані сидіти вільно а фасон відповідає сучасним трендам, підходе на всі типи фігур та має широку варіативність подачі образу та об'ємності силуету.</p>
+      <p className='productSizeText'><span className='productSize-bolt'>*</span>   Розміри розраховані сидіти вільно а фасон відповідає сучасним трендам, підходе на всі типи фігур та має широку варіативність подачі образу та об'ємності силуету.</p>
+      <img className='line' src={require('../../Images/line.png')} alt="line" />
     </section>
   );
 };
