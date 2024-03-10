@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lady-blouse-shirt-cotton/static/css/main.a80e73c8.css",
-    "main.js": "/lady-blouse-shirt-cotton/static/js/main.57dce724.js",
+    "main.css": "/lady-blouse-shirt-cotton/static/css/main.89a7e6b8.css",
+    "main.js": "/lady-blouse-shirt-cotton/static/js/main.e56fd946.js",
     "static/media/aboutProduct5.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct5.bc246fd95f106feec766.jpg",
     "static/media/proposal1.jpg": "/lady-blouse-shirt-cotton/static/media/proposal1.2d9561f9e8ded9128c0a.jpg",
     "static/media/mainImage.jpg": "/lady-blouse-shirt-cotton/static/media/mainImage.90310d4ba56eae74b623.jpg",
@@ -41,11 +41,11 @@
     "static/media/logo2.png": "/lady-blouse-shirt-cotton/static/media/logo2.cd68e7d88b5525f51a59.png",
     "static/media/logo1.jpg": "/lady-blouse-shirt-cotton/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/lady-blouse-shirt-cotton/index.html",
-    "main.a80e73c8.css.map": "/lady-blouse-shirt-cotton/static/css/main.a80e73c8.css.map",
-    "main.57dce724.js.map": "/lady-blouse-shirt-cotton/static/js/main.57dce724.js.map"
+    "main.89a7e6b8.css.map": "/lady-blouse-shirt-cotton/static/css/main.89a7e6b8.css.map",
+    "main.e56fd946.js.map": "/lady-blouse-shirt-cotton/static/js/main.e56fd946.js.map"
   },
   "entrypoints": [
-    "static/css/main.a80e73c8.css",
-    "static/js/main.57dce724.js"
+    "static/css/main.89a7e6b8.css",
+    "static/js/main.e56fd946.js"
   ]
 }
