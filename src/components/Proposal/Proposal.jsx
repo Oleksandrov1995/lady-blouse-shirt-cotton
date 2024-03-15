@@ -1,8 +1,8 @@
 import './Proposal.css';
 import { Link } from 'react-scroll';
 import CountTimeDown from "../CountTimeDown/CountTimeDown";
-let price = 985;
-let todayPrice = 689;
+// let price = 985;
+// let todayPrice = 689;
 
 
 export const Proposal = () => {
@@ -39,8 +39,8 @@ export const Proposal = () => {
           src={require('../../Images/prices1.png')}
           alt="Шаблон ціни тижня"
         />
-        <span className="proposal-price price-text">{price} ГРН</span>
-        <span className="proposal-todayPrice price-text">{todayPrice} ГРН</span>
+        {/* <span className="proposal-price price-text">{price} ГРН</span>
+        <span className="proposal-todayPrice price-text">{todayPrice} ГРН</span> */}
       </div>
       <h3 className='proposal-text'>Пропозиція діє ще:</h3>
       <CountTimeDown/>
