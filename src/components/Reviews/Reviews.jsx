@@ -9,6 +9,8 @@ import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 import { reviewsData } from '../../data/reviewsData';
 
+
+
 export const Reviews = () => {
   return (
     <section id="reviews" className="reviews">
@@ -35,7 +37,8 @@ export const Reviews = () => {
         {reviewsData.map(slide => (
           <SwiperSlide key={slide.id}>
             {' '}
-            <img
+           
+            <img loading="lazy"
               className="reviews-img"
               src={slide.imageSrc}
               alt="Відгук з інстаграм"
