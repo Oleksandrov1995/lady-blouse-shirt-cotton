@@ -1,4 +1,6 @@
 export const reviewsData = [
+  {id:1,
+  imageSrc:require('../Images/reviews/reviews1-min.png')}
   // {
   //   id: 1,
   //   imageSrc: require('../Images/reviews/reviews1-min.png'),
