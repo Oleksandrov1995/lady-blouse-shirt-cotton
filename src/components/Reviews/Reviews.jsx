@@ -36,15 +36,13 @@ export const Reviews = () => {
       >
         {reviewsData.map(slide => (
           <SwiperSlide key={slide.id}>
-            {' '}
-        
-            <img 
-              className="reviews-img"
-              src={slide.imageSrc}
-              alt="Відгук з інстаграм"
-            />
-   
-          </SwiperSlide>
+          {' '}
+          <img
+            className="reviews-img"
+            src={slide.imageSrc}
+            alt="Відгук з інстаграм"
+          />
+        </SwiperSlide>
         ))}
       </Swiper>
 
