@@ -9,7 +9,7 @@ import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 import { reviewsData } from '../../data/reviewsData';
 
-import LazyLoad from 'react-lazyload';
+
 
 export const Reviews = () => {
   return (
@@ -37,13 +37,13 @@ export const Reviews = () => {
         {reviewsData.map(slide => (
           <SwiperSlide key={slide.id}>
             {' '}
-          <LazyLoad>
+        
             <img 
               className="reviews-img"
               src={slide.imageSrc}
               alt="Відгук з інстаграм"
             />
-         </LazyLoad>
+   
           </SwiperSlide>
         ))}
       </Swiper>
