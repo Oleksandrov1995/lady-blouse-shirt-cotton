@@ -1,29 +1,50 @@
 {
   "files": {
     "main.css": "/lady-blouse-shirt-cotton/static/css/main.49f3def9.css",
-    "main.js": "/lady-blouse-shirt-cotton/static/js/main.d9823f8e.js",
+    "main.js": "/lady-blouse-shirt-cotton/static/js/main.7445e744.js",
     "static/media/product2.jpeg": "/lady-blouse-shirt-cotton/static/media/product2.5efd8e96f4927f664ac9.jpeg",
+    "static/media/reviews1.png": "/lady-blouse-shirt-cotton/static/media/reviews1.a59778f076e0b99e7ad1.png",
     "static/media/product1.jpeg": "/lady-blouse-shirt-cotton/static/media/product1.dd96950edfa3daea57c4.jpeg",
     "static/media/product3.jpeg": "/lady-blouse-shirt-cotton/static/media/product3.b5bf49b16d8609dce502.jpeg",
+    "static/media/reviews7.png": "/lady-blouse-shirt-cotton/static/media/reviews7.dc7d21c05816947c6a3a.png",
+    "static/media/reviews13.png": "/lady-blouse-shirt-cotton/static/media/reviews13.5187e1e8682b194e029d.png",
+    "static/media/reviews20.jpg": "/lady-blouse-shirt-cotton/static/media/reviews20.a854d4763ff635af4ca3.jpg",
+    "static/media/reviews4.png": "/lady-blouse-shirt-cotton/static/media/reviews4.f106e35a5a941b459f1b.png",
+    "static/media/reviews14.png": "/lady-blouse-shirt-cotton/static/media/reviews14.859785a1c044e2964e38.png",
     "static/media/aboutProduct5.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct5.596d1fa55f8ee9084059.jpg",
+    "static/media/reviews12.png": "/lady-blouse-shirt-cotton/static/media/reviews12.ebd5da773d2baf660ac5.png",
     "static/media/proposal1.jpg": "/lady-blouse-shirt-cotton/static/media/proposal1.fe1d0f6ff7b22c2044aa.jpg",
+    "static/media/reviews3.png": "/lady-blouse-shirt-cotton/static/media/reviews3.0b63bca5ab98aa8202aa.png",
+    "static/media/reviews21.jpg": "/lady-blouse-shirt-cotton/static/media/reviews21.09be0f6bae4145167fa9.jpg",
     "static/media/prices1.png": "/lady-blouse-shirt-cotton/static/media/prices1.83caaa08a2b15f3dbd32.png",
     "static/media/proposal3.jpg": "/lady-blouse-shirt-cotton/static/media/proposal3.45721296ab12c37e0a48.jpg",
     "static/media/discount30.png": "/lady-blouse-shirt-cotton/static/media/discount30.7f383ec49bf6abf04701.png",
     "static/media/product4.jpeg": "/lady-blouse-shirt-cotton/static/media/product4.f615705fda07cae510c1.jpeg",
+    "static/media/reviews5.png": "/lady-blouse-shirt-cotton/static/media/reviews5.45a0e2d4f725a915359d.png",
+    "static/media/reviews6.png": "/lady-blouse-shirt-cotton/static/media/reviews6.0522cfd009d5fd13e4e3.png",
+    "static/media/reviews2.png": "/lady-blouse-shirt-cotton/static/media/reviews2.75e61354cba156f3c24e.png",
+    "static/media/reviews11.jpg": "/lady-blouse-shirt-cotton/static/media/reviews11.75ca06ac46ee69912dfc.jpg",
+    "static/media/reviews17.jpg": "/lady-blouse-shirt-cotton/static/media/reviews17.ccc77272656306573bac.jpg",
+    "static/media/reviews8.jpg": "/lady-blouse-shirt-cotton/static/media/reviews8.55aff3db329d32258ecc.jpg",
     "static/media/mainImage.jpg": "/lady-blouse-shirt-cotton/static/media/mainImage.005ad1bcd1a485d736fd.jpg",
     "static/media/proposal2.jpg": "/lady-blouse-shirt-cotton/static/media/proposal2.c275ecb4663440bc2331.jpg",
+    "static/media/reviews15.jpg": "/lady-blouse-shirt-cotton/static/media/reviews15.f9300e35ec9b07d0108b.jpg",
+    "static/media/reviews22.jpg": "/lady-blouse-shirt-cotton/static/media/reviews22.73f75a926946a0b3e97d.jpg",
+    "static/media/reviews16.jpg": "/lady-blouse-shirt-cotton/static/media/reviews16.d5cd71800431ba341621.jpg",
     "static/media/aboutProduct4.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct4.d6cf189c5ec87985cb68.jpg",
+    "static/media/reviews18.jpg": "/lady-blouse-shirt-cotton/static/media/reviews18.7258e7d9503a01d7fc3e.jpg",
+    "static/media/reviews19.jpg": "/lady-blouse-shirt-cotton/static/media/reviews19.b7a68d3a5df3b01174ec.jpg",
     "static/media/aboutProduct1.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct1.e09ae272d2851db72d26.jpg",
+    "static/media/reviews23.jpg": "/lady-blouse-shirt-cotton/static/media/reviews23.66faff14f33a5eb93418.jpg",
     "static/media/aboutProduct2.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct2.0c9bb51a58d69e0dcead.jpg",
     "static/media/logo2.png": "/lady-blouse-shirt-cotton/static/media/logo2.cd68e7d88b5525f51a59.png",
     "static/media/logo1.jpg": "/lady-blouse-shirt-cotton/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/lady-blouse-shirt-cotton/index.html",
     "main.49f3def9.css.map": "/lady-blouse-shirt-cotton/static/css/main.49f3def9.css.map",
-    "main.d9823f8e.js.map": "/lady-blouse-shirt-cotton/static/js/main.d9823f8e.js.map"
+    "main.7445e744.js.map": "/lady-blouse-shirt-cotton/static/js/main.7445e744.js.map"
   },
   "entrypoints": [
     "static/css/main.49f3def9.css",
-    "static/js/main.d9823f8e.js"
+    "static/js/main.7445e744.js"
   ]
 }
