@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lady-blouse-shirt-cotton/static/css/main.ef0e3882.css",
-    "main.js": "/lady-blouse-shirt-cotton/static/js/main.a811867c.js",
+    "main.js": "/lady-blouse-shirt-cotton/static/js/main.ee219f24.js",
     "static/media/aboutProduct5.jpg": "/lady-blouse-shirt-cotton/static/media/aboutProduct5.bc246fd95f106feec766.jpg",
     "static/media/proposal1.jpg": "/lady-blouse-shirt-cotton/static/media/proposal1.2d9561f9e8ded9128c0a.jpg",
     "static/media/mainImage.jpg": "/lady-blouse-shirt-cotton/static/media/mainImage.90310d4ba56eae74b623.jpg",
@@ -42,10 +42,10 @@
     "static/media/logo1.jpg": "/lady-blouse-shirt-cotton/static/media/logo1.051c716fd5532611781a.jpg",
     "index.html": "/lady-blouse-shirt-cotton/index.html",
     "main.ef0e3882.css.map": "/lady-blouse-shirt-cotton/static/css/main.ef0e3882.css.map",
-    "main.a811867c.js.map": "/lady-blouse-shirt-cotton/static/js/main.a811867c.js.map"
+    "main.ee219f24.js.map": "/lady-blouse-shirt-cotton/static/js/main.ee219f24.js.map"
   },
   "entrypoints": [
     "static/css/main.ef0e3882.css",
-    "static/js/main.a811867c.js"
+    "static/js/main.ee219f24.js"
   ]
 }
